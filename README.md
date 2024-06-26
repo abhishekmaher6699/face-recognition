@@ -10,13 +10,8 @@ The project's root directory should contain an `images` folder with subdirectori
 
 root_directory/
 │
-
 ├── images/
-
 │ ├── person_1/
-
 │ ├── person_2/
-
 │ ├── person_3/
-
 │ └── ...
