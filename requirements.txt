@@ -1,0 +1,6 @@
+keras_facenet==0.1.0
+mtcnn==0.1.0
+numpy==1.22.0
+Pillow==9.0.1
+opencv-python==4.5.5.64
+tensorflow==2.8.0
