@@ -13,7 +13,7 @@ This Python script demonstrates real-time face recognition using FaceNet for fac
 
 1. **Clone the repository**:
    ```
-   git clone https://github.com/your_username/face-recognition.git
+   git clone https://github.com/abhishekmaher6699/face-recognition.git
    cd face-recognition
    ```
 
